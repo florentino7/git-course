@@ -12,3 +12,4 @@ Conteúdo aprendido:
 - Como inicializar um repositório
 - Vim
 - Alguns comandos do git
+- Git stash
